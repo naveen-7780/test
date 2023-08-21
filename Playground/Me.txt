@@ -1,1 +1,5 @@
-Name:
+{{#user}
+Name: Tollamadugu NaveenKumar Reddy
+Skills: Python
+Email: 204g1a0353@srit.ac.in
+{{/user}}
